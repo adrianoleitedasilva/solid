@@ -1,0 +1,16 @@
+{
+  "name": "adria/app_carrinho_compras",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Adriano Leite da Silva",
+      "email": "adrianoleitedasilva@outlook.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  }
+}
